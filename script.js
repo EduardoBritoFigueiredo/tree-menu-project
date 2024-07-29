@@ -8,7 +8,7 @@ function toggleMode() {
   // substituir a imagem
   if (html.classList.contains("light")) {
     // se tiver light mode, adicionar a imagem light
-    img.setAttribute("src", "./assets/avatar-light.png")
+    img.setAttribute("src", "./assets/avatar.png")
     img.setAttribute(
       "alt",
       "Foto de Eduardo Brito Figueiredo, sorrindo levemente, de barba, usando camisa azul escuro, fundo da foto transparente e fundo da tela claro."
